@@ -1,2 +1,2 @@
-# visual-basic
-Programs that are written with Visual Basic on the .NET platform.
+See Assembly repository for readme template.\
+Fourth semester.
